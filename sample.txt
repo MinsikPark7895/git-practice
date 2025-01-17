@@ -1,5 +1,5 @@
 Hello Git!!!
-Hello GitLab!!!
+Hello GitHub!!!
 Hello A!!!
 기차표
 표지
